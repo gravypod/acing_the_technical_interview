@@ -1,0 +1,10 @@
+Acing the technical interview in JS
+===================================
+
+
+
+I saw this on https://aphyr.com/posts/340-acing-the-technical-interview
+
+I was amazed by how cool this was so I had to reimplement it. This isn't done
+in a fancy language but instead in plain JavaScript. You'll need generators
+to run it because I'm lazy.
